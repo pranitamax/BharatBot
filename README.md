@@ -69,5 +69,3 @@ intent-detection-context-retention/
 └── LICENSE                     # License file
 
 
-### 1. Chatbot Interface
-![Chat UI](assets/screenshot_chat.png)
