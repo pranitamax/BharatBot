@@ -48,13 +48,7 @@ Goals:
 - ✅ Ethical safeguards: no PII, bias mitigation, transparency on sources
 
 ---
-# 🚀 Project Name
 
-Brief description of the project goes here.
-
----
-
-## 📂 Project Structure
 ## 📂 Project Structure
 
 ```bash
