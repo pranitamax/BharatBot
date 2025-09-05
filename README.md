@@ -48,6 +48,29 @@ Goals:
 - ✅ Ethical safeguards: no PII, bias mitigation, transparency on sources
 
 ---
+# 🚀 Project Name
 
-## Project Structure
+Brief description of the project goes here.
+
+---
+
+## 📂 Project Structure
+## 📂 Project Structure
+
+```bash
+intent-detection-context-retention/
+├── data/
+│   ├── Intent.json             # Original intent dataset
+│   └── lora_dataset.jsonl      # Processed dataset for LoRA fine-tuning
+├── models/
+│   └── lora_finetuned/         # Fine-tuned LoRA model checkpoints
+├── src/
+│   ├── intent_detection_context_retention.py   # Main training + chatbot pipeline
+│   ├── data_loader.py          # (Optional) Data preprocessing logic
+│   ├── train.py                # Training and fine-tuning scripts
+│   ├── inference.py            # Chatbot inference + pipeline
+│   └── gradio_app.py           # Gradio-based deployment
+├── requirements.txt            # Python dependencies
+├── README.md                   # Project documentation
+└── LICENSE                     # License file
 
