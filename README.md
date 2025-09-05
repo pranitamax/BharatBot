@@ -68,3 +68,6 @@ intent-detection-context-retention/
 ├── README.md                   # Project documentation
 └── LICENSE                     # License file
 
+
+### 1. Chatbot Interface
+![Chat UI](assets/screenshot_chat.png)
